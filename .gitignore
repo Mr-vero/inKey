@@ -1,0 +1,17 @@
+# Build output
+.gradle/
+build/
+app/build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+
+# Recorded training sessions (personal data — never commit)
+data/
